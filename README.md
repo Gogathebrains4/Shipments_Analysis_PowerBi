@@ -38,7 +38,7 @@ This project analyzes shipment and logistics data to evaluate delivery performan
 | File | Description |
 |-----|------------|
 | `.pbix` | Power BI dashboard file |
-| `screenshots/` | Preview images of the dashboard |
+| `.png` | Preview image of the dashboard |
 | `README.md` | Project documentation |
 
 ---
