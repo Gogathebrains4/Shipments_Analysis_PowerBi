@@ -31,7 +31,7 @@ This project analyzes shipment and logistics data to evaluate delivery performan
 
 ## 🖼 Dashboard Preview
 ### Overview
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](https://github.com/Gogathebrains4/Shipments_Analysis_PowerBi/blob/main/20261101_Dashboard_Overview.png)
 
 
 ## 📂 Files in This Repository
